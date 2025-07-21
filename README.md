@@ -102,6 +102,20 @@ All listed in `requirements.txt`.
 
 ---
 
+
+## 📸 Project Screenshots
+
+### 🔹 Iris Prediction Interface
+![Screenshot 1](images/screenshot1.png)
+
+### 🔹 Visualization (Heatmap / Countplot)
+![Screenshot 2](images/screenshot2.png)
+
+### 🔹 CLI Output / Model Training
+![Screenshot 3](images/screenshot3.png)
+
+
+
 ## 🙋‍♂️ Author
 
 **Raushan Kumar**  
