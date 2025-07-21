@@ -105,15 +105,14 @@ All listed in `requirements.txt`.
 
 ## 📸 Project Screenshots
 
-### 🔹 Iris Prediction Interface
-![Screenshot 1](images/Screenshot 2025-07-21 145505.png)
+🔹 **Iris Prediction Interface**  
+![Screenshot 1](images/screenshot_interface.png)
 
-### 🔹 Iris Dataset Insights
-![Screenshot 2](images/Screenshot 2025-07-21 145602.png)
+🔹 **Iris Dataset Insights**  
+![Screenshot 2](images/screenshot_insights.png)
 
-### 🔹 Dataset Preview
-![Screenshot 3](images/Screenshot 2025-07-21 145626.png)
-
+🔹 **Dataset Preview**  
+![Screenshot 3](images/screenshot_preview.png)
 
 
 ## 🙋‍♂️ Author
