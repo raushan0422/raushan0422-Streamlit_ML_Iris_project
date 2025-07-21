@@ -106,13 +106,13 @@ All listed in `requirements.txt`.
 ## 📸 Project Screenshots
 
 ### 🔹 Iris Prediction Interface
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](Screenshot 2025-07-21 145505.png)
 
-### 🔹 Visualization (Heatmap / Countplot)
-![Screenshot 2](images/screenshot2.png)
+### 🔹 Iris Dataset Insights
+![Screenshot 2](Screenshot 2025-07-21 145602.png)
 
-### 🔹 CLI Output / Model Training
-![Screenshot 3](images/screenshot3.png)
+### 🔹 Dataset Preview
+![Screenshot 3](Screenshot 2025-07-21 145626.png)
 
 
 
